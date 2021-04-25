@@ -18,6 +18,7 @@ clone 仓库
 
 ```bash
 git clone https://github.com/CA-2021Spring-Lab/Instr-Mem
+# or git clone https://gitee.com/ca-2021-spring-lab/Instr-Mem
 cd Instr-Mem
 ```
 
